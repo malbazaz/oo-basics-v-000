@@ -11,3 +11,4 @@ def cobble(shoe)
   puts "the shoe was been repaired"
   @condition = "new"
 end 
+end 
