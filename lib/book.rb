@@ -24,5 +24,16 @@ end
 def genre
   @genre
 end 
+def page_count=(num)
+  @page_count = num
+end
+def page_count
+  @page_count
 end 
-
+def turn_page=(num)
+  @turn_page
+end
+def turn_page
+  @turn_page
+end 
+end 
