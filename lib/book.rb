@@ -34,6 +34,6 @@ def turn_page=(num)
   @turn_page
 end
 def turn_page
-  @turn_page
+puts "Flipping the page..."
 end 
 end 
